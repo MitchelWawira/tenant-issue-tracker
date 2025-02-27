@@ -1,0 +1,11 @@
+car_id,model,brand,year,status
+1,"Toyota civi",Toyota,2003,Available
+2,"Honda Civic",Honda,2004,Unavailable
+3,Lincoln,Ford,2005,Available
+4,Defender,"Land Rover",2004,Available
+5,"Maruti Suzuki",Suzuki,2015,Available
+6,"Rolls Royce",BMW,2020,Available
+7,Peugeot,"Tata Motors",2019,Available
+8,Mustang,Ford,2021,Available
+9,Volvo,Geely,2023,Available
+10,Carnival,Kia,2009,Unavailable
